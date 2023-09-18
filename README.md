@@ -1,9 +1,9 @@
 I've updated the README file for your GitHub project "synchatpdf" according to your request. Here's the updated Markdown:
 
 ```markdown
-# SynGPT
+### SynGPT
 
-## 🛠️ Built With
+### 🛠️ Built With
 
 [![Python 3.8](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![Flask](https://img.shields.io/badge/flask-2.3.2-orange.svg)](https://flask.palletsprojects.com/en/2.1.x/)
@@ -13,7 +13,7 @@ I've updated the README file for your GitHub project "synchatpdf" according to y
 
 SynGPT is a Python-based application that allows users to read PDFs or uploaded text documents and then ask questions regarding the content of the PDF or text. It utilizes Natural Language Processing (NLP) techniques to understand and answer user questions based on the provided document.
 
-## ✨ Features
+### ✨ Features
 
 - Upload PDF documents or text files.
 - Ask questions about the content.
@@ -21,13 +21,13 @@ SynGPT is a Python-based application that allows users to read PDFs or uploaded 
 - Easy-to-use web interface.
 - Built-in support for common questions and commands.
 
-## ⚙️ Prerequisites
+### ⚙️ Prerequisites
 Before running SynGPT, make sure you have the following prerequisites installed:
 
 - Python (version 3.6)
 - Backend Code Installed - [https://github.com/bhanujoshi24/SynGPT](https://github.com/bhanujoshi24/SynGPT)
 
-# 🚀 Use-Cases
+### 🚀 Use-Cases
 You can use SynGPT in various ways. Here are some example use cases:
 
 ### Register
